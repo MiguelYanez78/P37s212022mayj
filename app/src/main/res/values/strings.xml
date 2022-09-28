@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P27s212022mayj</string>
+    <string name="Lnum1">Ingresa el primer numero</string>
+    <string name="Lnum2">Ingresa el segundo numero</string>
+    <string name="place1">Coloca el numero 1 aqui</string>
+    <string name="place2">Coloca el numero 2 aqui</string>
+    <string name="btnnmas">+</string>
+    <string name="btnmenos">-</string>
+    <string name="btnmulti">x</string>
+    <string name="btndiv">/</string>
+    <string name="Lresultado">Resultado</string>
+    <string name="suma_de_2_numeros">Suma de 2 numeros</string>
+    <string name="name">Name</string>
+    <string name="result">Resultado</string>
+    <string name="resultado">Resultado</string>
+
+</resources>
